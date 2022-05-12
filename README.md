@@ -1,3 +1,7 @@
+# Buscador de CEP (Ilustração)
+![image](https://user-images.githubusercontent.com/89748693/168138336-86f13a96-9c51-4a58-aa1a-84900f4aedeb.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
